@@ -1,0 +1,19 @@
+{
+  "name": "@curefit/testb",
+  "version": "1.0.0",
+  "description": "testing package b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharsinghal1610/curefit_testb.git"
+  },
+  "author": "Tushar Singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharsinghal1610/curefit_testb/issues"
+  },
+  "homepage": "https://github.com/tusharsinghal1610/curefit_testb#readme"
+}
