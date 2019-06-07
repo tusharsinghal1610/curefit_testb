@@ -4,7 +4,7 @@
   "description": "testing package b",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postversion": "git push && git push --tags && npm publish"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tusharsinghal1610/curefit_testb/issues"
   },
-  "homepage": "https://github.com/tusharsinghal1610/curefit_testb#readme"
+  "homepage": "https://github.com/tusharsinghal1610/curefit_testb#readme",
+  "dependencies": {
+    "@curefit/testa": "^1.0.1"
+  }
 }
