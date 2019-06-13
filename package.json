@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tusharsinghal1610/testb#readme",
   "dependencies": {
-    "@curefit/testa": "^1.0.9"
+    "@curefit/testa": "^1.0.10"
   }
 }
