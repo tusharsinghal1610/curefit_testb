@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/tusharsinghal1610/testb/issues"
   },
-  "homepage": "https://github.com/tusharsinghal1610/testb#readme",
-  "dependencies": {
-    "@curefit/testa": "^1.1.0"
-  }
+  "homepage": "https://github.com/tusharsinghal1610/testb#readme"
 }
