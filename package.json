@@ -20,8 +20,8 @@
   "homepage": "https://github.com/tusharsinghal1610/testb#readme",
   "gitHead": "24fea9094e5f25e0d99dd92467c98270878daf55",
   "readme": "ERROR: No README data found!",
-  "_id": "@curefit/testb@1.0.98",
+  "_id": "@curefit/testb@1.0.100",
   "dependencies": {
-    "@curefit/testd": "^1.0.51"
+    "@curefit/testd": "^1.0.52"
   }
 }
