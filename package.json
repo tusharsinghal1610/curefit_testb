@@ -1,1 +1,27 @@
-{"name":"@curefit/testb","version":"1.0.83","description":"testing package b","main":"index.js","scripts":{"postversion":"git push && git push --tags && npm publish"},"repository":{"type":"git","url":"git+https://github.com/tusharsinghal1610/testb.git"},"author":{"name":"Tushar Singhal"},"license":"ISC","bugs":{"url":"https://github.com/tusharsinghal1610/testb/issues"},"homepage":"https://github.com/tusharsinghal1610/testb#readme","gitHead":"24fea9094e5f25e0d99dd92467c98270878daf55","readme":"ERROR: No README data found!","_id":"@curefit/testb@1.0.83"}
+{
+  "name": "@curefit/testb",
+  "version": "1.0.83",
+  "description": "testing package b",
+  "main": "index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharsinghal1610/testb.git"
+  },
+  "author": {
+    "name": "Tushar Singhal"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharsinghal1610/testb/issues"
+  },
+  "homepage": "https://github.com/tusharsinghal1610/testb#readme",
+  "gitHead": "24fea9094e5f25e0d99dd92467c98270878daf55",
+  "readme": "ERROR: No README data found!",
+  "_id": "@curefit/testb@1.0.83",
+  "dependencies": {
+    "@curefit/testd": "^1.0.40"
+  }
+}
