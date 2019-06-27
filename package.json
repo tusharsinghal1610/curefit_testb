@@ -1,6 +1,6 @@
 {
   "name": "@curefit/testb",
-  "version": "1.0.229",
+  "version": "1.0.230",
   "description": "testing package b",
   "main": "index.js",
   "scripts": {
