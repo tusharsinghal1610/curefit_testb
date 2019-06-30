@@ -24,6 +24,6 @@
   "_id": "@curefit/testb@1.0.288",
   "dependencies": {
     "@curefit/testc": "^1.0.253",
-    "@curefit/testd": "^1.0.305"
+    "@curefit/testd": "^1.0.306"
   }
 }
